@@ -1,0 +1,7 @@
+Paragraph Analysis: 
+------------------------------- 
+Name of Text File: paragraph_1.txt 
+Approximate Word Count: 130 
+Approximate Sentence Count: 5 
+Average Letter Count: 6.3 
+Average Sentence Length: 26.0 
